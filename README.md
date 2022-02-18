@@ -1,2 +1,2 @@
 # NLTK-Classify-Words
-NLTK-Classify-Words.
+NLTK-Classify-Words
